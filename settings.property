@@ -1,0 +1,4 @@
+url=http://127.0.0.1:8080/htmldb/
+browser=chrome
+search=//*[@id="sb_form_q"]
+searchButton=//*[@id="sb_form_go"]

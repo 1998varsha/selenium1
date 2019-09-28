@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+  <test name="googleTest">
+    <classes>
+      <class name="Day3.FirstNG"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="sqlTest">
+    <classes>
+      <class name="Day3.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
